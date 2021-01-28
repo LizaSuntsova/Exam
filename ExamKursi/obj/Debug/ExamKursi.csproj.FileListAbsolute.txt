@@ -1,0 +1,7 @@
+C:\Users\Лиза\Desktop\ExamKursi\obj\Debug\ExamKursi.csprojAssemblyReference.cache
+C:\Users\Лиза\Desktop\ExamKursi\obj\Debug\ExamKursi.csproj.CoreCompileInputs.cache
+C:\Users\Лиза\Desktop\ExamKursi\bin\Debug\ExamKursi.exe.config
+C:\Users\Лиза\Desktop\ExamKursi\bin\Debug\ExamKursi.exe
+C:\Users\Лиза\Desktop\ExamKursi\bin\Debug\ExamKursi.pdb
+C:\Users\Лиза\Desktop\ExamKursi\obj\Debug\ExamKursi.exe
+C:\Users\Лиза\Desktop\ExamKursi\obj\Debug\ExamKursi.pdb
